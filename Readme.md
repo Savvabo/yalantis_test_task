@@ -14,7 +14,7 @@ sudo bash start.sh
 
 Actions:
 
-1) Remove old image, containers, pycache and db
+1) Remove an old image, containers, pycache and db
 2) Install libs
 3) Run tests
 4) Run application
